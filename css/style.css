@@ -1,0 +1,12 @@
+.heading2{
+color: blue; text-align: center; 
+}
+body{
+    background-color: rgb(134, 112, 115); 
+}
+.para1{
+    font-size: 18px; text-transform: capitalize; text-decoration: line-through; text-align: center;
+}
+img {
+    width: 400px;
+}
